@@ -1,0 +1,8 @@
+.idea
+.vscode
+.venv
+__pycache__/
+payment_keys/
+config.py
+bot.session*
+main.db*

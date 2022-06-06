@@ -1,0 +1,6 @@
+# Using a custom Pyrogram version
+https://github.com/AmanoTeam/pyrogram/archive/master.zip#egg=pyrogram
+httpx[http2]
+async-lru
+meval
+TgCrypto
